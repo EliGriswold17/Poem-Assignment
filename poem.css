@@ -7,7 +7,7 @@
 }
 
 .background{
-    background-image: url ('../img/Snowy-Woods.jpg') no-repeat center;
+    background: url('img/Snowy-Woods.jpg') no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     height: 500px;
@@ -15,7 +15,7 @@
 }
 
 .background2{
-    background-image: url ('../img/Frozen-Lake.jpeg') no-repeat center;
+    background: url('img/Frozen-Lake.jpeg') no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     height: 500px;
@@ -23,7 +23,7 @@
 }
 
 .background3{
-    background-image: url ('../img/Tree-Photo.jpg') no-repeat center;
+    background: url('img/Tree-Photo.jpg') no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     height: 500px;
@@ -31,7 +31,7 @@
 }
 
 .background4{
-    background-image: url ('../img/Woods.jpg') no-repeat center;
+    background: url('img/Woods.jpg') no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     height: 500px;
@@ -39,7 +39,7 @@
 }
 
 .background5{
-    background-image: url ('../img/Miles-To-Go.jpg') no-repeat center;
+    background: url('img/Miles-To-Go.jpg') no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     height: 500px;
