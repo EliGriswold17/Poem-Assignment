@@ -1,0 +1,55 @@
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    background: #F8F8FF;
+    font-size: 24px;
+    padding: 25px;
+}
+
+.background{
+    background-image: url ('../img/Snowy-Woods.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    /*image source: https://www.oldmission.net/wp-content/uploads/2019/12/Snowy-Woods-12-1-19-1020-17.jpg */
+}
+
+.background2{
+    background-image: url ('../img/Frozen-Lake.jpeg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    /*image source: https://images.unsplash.com/photo-1573314316983-8f4cd223ed2f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80 */
+}
+
+.background3{
+    background-image: url ('../img/Tree-Photo.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+   /*image source: https://thoughtcatalog.com/wp-content/uploads/2018/02/woods.png?w=1140 */
+}
+
+.background4{
+    background-image: url ('../img/Woods.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    /*image source: https://blog.mountainhouse.com/wp-content/uploads/2017/01/snow-covered-forest-with-view-of-sunset-over-mountain-range.jpg */
+}
+
+.background5{
+    background-image: url ('../img/Miles-To-Go.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    /* image source: https://i.pinimg.com/originals/87/93/81/8793818c517aeeae23831fb8eb59573a.jpg */
+}
+
+
+h1{
+    font-family: Tahoma;
+    }
+h2{
+    font-family: Tahoma;
+    }
